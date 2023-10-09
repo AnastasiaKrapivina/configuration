@@ -1,0 +1,27 @@
+{
+  "name": "configuration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint",
+    "prettier": "prettier",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnastasiaKrapivina/configuration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnastasiaKrapivina/configuration/issues"
+  },
+  "homepage": "https://github.com/AnastasiaKrapivina/configuration#readme",
+  "devDependencies": {
+    "eslint": "^8.51.0"
+  },
+  "dependencies": {
+    "prettier": "^3.0.3"
+  }
+}
